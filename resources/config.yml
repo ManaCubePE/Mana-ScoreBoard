@@ -42,7 +42,7 @@ use-default-score-lines: false
 # The amount in seconds after which the Scoreboard would update.
 # Increase this value if your server seems to lag.
 # Default: 3 seconds.
-update-interval: 3
+update-interval: 2
 
 # Set the timezone for {time} to your own preference.
 # false - Follow the server/machine time without changes.
